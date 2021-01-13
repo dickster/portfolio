@@ -1,0 +1,18 @@
+date: "2021-03-01"
+losses:
+  - event: "Katrina"
+    cedent: "TrainRe"
+    class: "TrainRe_Property D&F"
+    date: "2021-02-31"
+    paid: 1800
+    unpaid: 2800
+    stdDeviation: 3800
+    dist: "normal"
+  - event: "Isaias"
+    cedent: "TrainRe"
+    class: "TrainRe_Property Treaty"
+    date: "2021-02-31"
+    paid: 2800
+    unpaid: 4800
+    stdDeviation: 680
+    dist: "lognormal"
