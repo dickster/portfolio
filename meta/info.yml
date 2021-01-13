@@ -1,0 +1,16 @@
+
+#this might be better off stored in a simple mongo doc or SQL table?
+# put here for viewing to get the jist...discuss later.
+tenant: "Elementum"
+publishing:
+  lockingBranch: "C1"
+#  false if no branch has lock
+  locked: true
+lastRun:
+  duration: 235000
+  user: "Derek"
+  date: "2021-01-17@8:30"
+  status: "success"
+
+
+
