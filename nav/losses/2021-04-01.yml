@@ -1,0 +1,10 @@
+date: "2021-03-01"
+losses:
+  - event: "Isaias"
+    cedent: "TrainRe"
+    class: "TrainRe_Property Treaty"
+    date: "2021-03-31"
+    paid: 2900
+    unpaid: 4900
+    stdDeviation: 690
+    dist: "normal"
