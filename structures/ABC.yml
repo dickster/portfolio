@@ -1,0 +1,27 @@
+name: "ABC"
+contracts:
+- "1"
+
+NEWANALYSIS ====> local branch.
+  make changes   e.g ShawnAnalysis.
+  commit  to local branch.   NOT push to remote.
+  commit.
+  commit.    // when app "saves" dirty changes.
+i want to publish. - press publish button.
+  master merge from branch.
+
+
+
+SERVER/CLOUD
+
+_________________________________
+repo
+  +branch
+   commit changes  = "Shawn contract:x"    (GIT commit, not PUSH)
+   commit changes
+  --PUBLISH
+          GIT Merge "shawnsBranch" master --squash --comment=
+          GIT push???    from <-- into master/remote
+
+  (master - on local)                     shawns changes
+_________________________________
